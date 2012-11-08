@@ -10,3 +10,13 @@
 *.lai
 *.la
 *.a
+
+*.atsln
+*.atsuo
+
+*.pdf
+*.tmp
+*.csv
+
+Debug
+Release
